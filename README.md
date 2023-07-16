@@ -8,3 +8,11 @@
 fatigue)
 4. the ability to choose from a healthy selection of
 extensions available when you need them. 
+
+## The Software That Already Comes With Your Computer
+On Mac computers, the text editor that comes with your computer is called,
+“Text Edit.” On Windows computers, the text editor that comes with
+your computer is called, “Notepad.”
+And on Linux computers, each distribution will have its own text
+editor already installed but which one might depend on the flavor of
+your particular distribution
