@@ -16,3 +16,12 @@ your computer is called, “Notepad.”
 And on Linux computers, each distribution will have its own text
 editor already installed but which one might depend on the flavor of
 your particular distribution
+## Third-Party Options
+### NotePad++
+### TextWrangler/BB Edit
+### BB Edit 
+### Visual Studio Code (My personal favorite)
+### Atom
+### Brackets
+### Sublime Text
+...just to name a few!
